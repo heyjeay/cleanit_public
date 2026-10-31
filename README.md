@@ -32,6 +32,8 @@ Prefer no install? Grab `CleanIT_x.x.x_x64-portable.exe` instead: one file, runs
 | 📄 **Files** | The 1,000 biggest files or folders, with search and type filters. Tick several to clear them at once. |
 | 🧹 **Clean up** | Caches, temp files, old installers, Google Takeout exports, duplicates and game leftovers, each marked **Safe** or **Review**. |
 | ✨ **Explain with AI** | Right-click anything: what it is, why it's so big, and whether it can go. Runs on your PC, free and offline. |
+| 🔧 **Drivers** | Every device and its driver. Installs the driver updates Windows Update has waiting for your hardware, inside a System Restore point, and explains why so many drivers say 2006 (they're Windows' own, and that's on purpose). |
+| 🎯 **Optimize** | A live map of where your CPU's interrupt work lands. Pin your graphics card and USB to their own cores, measure before and after, and undo it all in one click. |
 | ⚡ **Fast scan** | Click **Fast scan** in the top bar to restart as administrator: drives are then read straight from the NTFS file table, WizTree-fast. |
 
 The first time you use **Explain with AI**, CleanIT downloads its AI model once (about 1 GB). After that it works offline, and nothing about your files leaves your PC.
@@ -39,6 +41,10 @@ The first time you use **Explain with AI**, CleanIT downloads its AI model once 
 ## 🔄 Updates
 
 CleanIT **updates itself**. When a new version is out, a blue **Update** pill appears in the top bar: one click installs it and reopens the app. You never need to come back to this page.
+
+## 🛡️ Admin features
+
+Fast scan, installing drivers and changing Optimize settings need administrator rights. Click **Fast scan** in the top bar and CleanIT restarts with them. Everything else works without.
 
 ## 🐛 Found a bug?
 
